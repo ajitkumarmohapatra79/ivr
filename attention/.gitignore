@@ -1,0 +1,10 @@
+.data/
+.ipynb_checkpoints/
+m30k_deen_shr*
+__pycache__/
+screenlog.0
+reduced_embed_sequence_df.pkl
+*.log
+
+
+
